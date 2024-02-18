@@ -1,0 +1,153 @@
+* {
+  padding: 0%;
+}
+*{
+    background-color: #FFFFFF;
+}
+.container {
+  width: 100%;
+}
+.navigation-bar{
+    background-color: #FFFFFF;
+}
+.logo {
+  padding: 5%;
+  width: 180px;
+  height: 51px;
+}
+.home {
+  position: absolute;
+  top: 15%;
+  right: 60%;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+}
+.how-tere-works {
+  width: auto;
+  position: absolute;
+  top: 15%;
+  right: 50%;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+}
+.tere-benifits {
+  width: auto;
+  position: absolute;
+  top: 15%;
+  right: 42%;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+}
+.btn {
+  background-color: #75bf7a;
+  width: 110px;
+  height: 40px;
+  position: relative;
+  top: -94px;
+  left: 42%;
+  cursor: help;
+  border-radius: 8%;
+  font-weight: 400;
+}
+.text-paragraph {
+  width: 400px;
+  height: 400px;  
+  position: absolute;
+  left: 5.5%;
+  font-family: Gilroy;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.text-paragraph > p{
+    font-family: Gilroy;
+font-size: 20px;
+font-weight: 200;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+position: relative;
+bottom: 13%;
+
+}
+.pic-design {
+  width: 500px;
+  height: 400px;
+  position: relative;
+  left: 37.5%;
+  top: 40%;
+}
+.pic-design > img {
+    width: 550px;
+    height: 551px;
+}
+.button-1 > img {
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+    width: 200px;
+    height: 50px;
+}
+.button-2 > img {
+    position: absolute;
+    left: 17%;
+    bottom: 5%;
+    width: 200px;
+    height: 50px;
+}
+fieldset {
+    border: none;
+    background-color: #75bf7a;
+    height: 120px;
+    width: 1125px;
+    position: absolute;
+    top: 840px;
+    left: 5%;
+    border-radius: 10px;
+  }
+  .p1 {
+background-color: #75bf7a;
+    position: absolute;
+    top: 30px;
+    left: 80px;
+    color: #FFFFFF;
+    line-height: 20px;
+    font-weight: 200;
+  }
+  .in1 {
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 35px;
+    left: 315px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 4.5px;
+  }
+  .drive {
+    background-color: black;
+    width: 220px;
+    height: 53px;
+    position: absolute;
+    top: 35px;
+    left: 630px;
+    color: white;
+    border-radius: 4.5px;
+    cursor: grab;
+  }
+/* .footer-navigation-bar { */
+  /* width: 900px; */
+  /* height: 100px; */
+  /* border: solid 4px black; */
+/* } */
